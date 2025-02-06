@@ -1,2 +1,2 @@
-# Codemonk-Assignment-2
-Deep learning fashion product prediction and classification Model 
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
