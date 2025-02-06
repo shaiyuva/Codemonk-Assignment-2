@@ -25,8 +25,8 @@ Validation Strategy: Train-Test split with model evaluation using a Confusion Ma
 Results
 The model was trained for multiple epochs, achieving a high classification accuracy.
 Evaluation metrics indicate strong performance across different categories.
-How to Use
-Clone the repository:
+
+How to Use Clone the repository:
 bash
 Copy
 Edit
